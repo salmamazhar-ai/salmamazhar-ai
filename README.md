@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Mazhar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-mazhar)
 [![Email](https://img.shields.io/badge/Email-salmamazhar936%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:salmamazhar936@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Case%20Studies-4F46E5?logo=github&logoColor=white)](https://github.com/salmamazhar-ai/ai-portfolio-case-studies)
-[![Resume](https://img.shields.io/badge/Resume-View-EC4899?logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1MgetpMDiftH5JMhMvPRVbJ71ocZGtO_X/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-EC4899?logo=googledocs&logoColor=white)](https://docs.google.com/document/d/11BEUGBJ7KwQ8tyRXuLQ6gsFbEJJYu2zg/edit?usp=sharing)
 
 ## About Me
 
@@ -49,6 +49,5 @@ More case studies: [View all on GitHub](https://github.com/salmamazhar-ai/ai-por
 ## Let's Connect
 
 - LinkedIn: [salma-mazhar](https://www.linkedin.com/in/salma-mazhar)
-- Portfolio: [ai-portfolio-case-studies](https://github.com/salmamazhar-ai/ai-portfolio-case-studies)
-- Resume: [View on Google Docs](https://docs.google.com/document/d/1MgetpMDiftH5JMhMvPRVbJ71ocZGtO_X/edit?usp=sharing)
+- Portfolio: [ai-portfolio-case-studies](https://github.com/salmamazhar-ai/ai-portfolio-case-studies)                                     - Resume: [View on Google Docs](https://docs.google.com/document/d/11BEUGBJ7KwQ8tyRXuLQ6gsFbEJJYu2zg/edit?usp=sharing) 
 - Email: salmamazhar936@gmail.com
